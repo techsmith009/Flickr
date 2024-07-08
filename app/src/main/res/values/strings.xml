@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlickrApplication</string>
+    <string name="generic_error_message">Unable to display images. Please try again later</string>
+    <string name="error_title">Network Error</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="publishDate">Publish Date</string>
+    <string name="enter_text_here">Enter Text Here</string>
+</resources>
